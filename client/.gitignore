@@ -1,0 +1,10 @@
+.settings
+.classpath
+.metadata
+.project
+target
+*.local
+*.iml
+.DS_Store
+.idea
+id_rsa
